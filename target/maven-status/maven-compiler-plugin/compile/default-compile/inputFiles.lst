@@ -1,0 +1,10 @@
+C:\Users\giova\OneDrive\Desktop\Informatica\Web Development\API\eventplanner\src\main\java\com\project\eventplanner\config\JwtFilter.java
+C:\Users\giova\OneDrive\Desktop\Informatica\Web Development\API\eventplanner\src\main\java\com\project\eventplanner\config\SecurityConfig.java
+C:\Users\giova\OneDrive\Desktop\Informatica\Web Development\API\eventplanner\src\main\java\com\project\eventplanner\controller\UserController.java
+C:\Users\giova\OneDrive\Desktop\Informatica\Web Development\API\eventplanner\src\main\java\com\project\eventplanner\dao\UserRepository.java
+C:\Users\giova\OneDrive\Desktop\Informatica\Web Development\API\eventplanner\src\main\java\com\project\eventplanner\EventplannerApplication.java
+C:\Users\giova\OneDrive\Desktop\Informatica\Web Development\API\eventplanner\src\main\java\com\project\eventplanner\model\User.java
+C:\Users\giova\OneDrive\Desktop\Informatica\Web Development\API\eventplanner\src\main\java\com\project\eventplanner\model\UserPrincipal.java
+C:\Users\giova\OneDrive\Desktop\Informatica\Web Development\API\eventplanner\src\main\java\com\project\eventplanner\service\JwtService.java
+C:\Users\giova\OneDrive\Desktop\Informatica\Web Development\API\eventplanner\src\main\java\com\project\eventplanner\service\MyUserDetailsService.java
+C:\Users\giova\OneDrive\Desktop\Informatica\Web Development\API\eventplanner\src\main\java\com\project\eventplanner\service\UserService.java
