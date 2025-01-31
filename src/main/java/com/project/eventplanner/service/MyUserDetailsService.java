@@ -6,9 +6,9 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 
-import com.project.eventplanner.dao.UserRepository;
 import com.project.eventplanner.model.User;
 import com.project.eventplanner.model.UserPrincipal;
+import com.project.eventplanner.repository.UserRepository;
 
 @Service
 public class MyUserDetailsService implements UserDetailsService {

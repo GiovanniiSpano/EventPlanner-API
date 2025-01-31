@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.project.eventplanner.model.User;
-import com.project.eventplanner.model.dto.UserDTO;
+import com.project.eventplanner.payload.UserDTO;
 import com.project.eventplanner.service.JwtService;
 import com.project.eventplanner.service.UserService;
 
@@ -37,7 +37,7 @@ public class UserController {
     }
 
     @PostMapping("/login")
-    public ResponseEntity<String> login(@Valid @RequestBody UserDTO user) {
+    public ResponseEntity<String> login(@Valid @RequestBody User user) {
 
         Authentication authentication = this.authenticationManager.authenticate(new UsernamePasswordAuthenticationToken(user.getUsername(), user.getPassword()));
 
